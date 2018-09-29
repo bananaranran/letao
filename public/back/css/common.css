@@ -17,6 +17,9 @@ ul,ol {
   /* 表格中垂直对齐方式 */
   vertical-align: middle;
 }
+.mb_20 {
+  margin-bottom: 20px;
+}
 
 /* 登录页样式 */
 .body-bg {
